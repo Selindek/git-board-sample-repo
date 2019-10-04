@@ -7,6 +7,7 @@ Provides a repository with reasonable data and history to be able to test and de
 Git history to emulate different valid states of issues.
 
 ```
+* issue #977
 * issue #575                            → done
 * issue #635 (tag: v2.0)                → released (in v2.0)
 * issue #459                            → released (in v2.0); ❗️ not selected
