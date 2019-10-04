@@ -7,6 +7,10 @@ Provides a repository with reasonable data and history to be able to test and de
 Git history to emulate different valid states of issues.
 
 ```
+* issue #896                            → done
+| * commit with fix of issue #977       → in progress
+| branch-without-number
+|/
 | 895-issue-fix-branch: no commits      → in progress
 |/
 * issue #870                            → done
